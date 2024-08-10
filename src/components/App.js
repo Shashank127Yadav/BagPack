@@ -30,6 +30,7 @@ export default function App() {
 
     if (confirmed) setItems([]);
   }
+  //comment here
 
   return (
     <div className="app">
